@@ -1,0 +1,7 @@
+{
+  "name": "Openclaw: JournALL",
+  "description": "A dark-themed, intelligent daily journal that organizes your life automatically with AI-powered insights and seamless voice transcription. - Edited by openclaw.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
